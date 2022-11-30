@@ -3,6 +3,7 @@ h1 {
     font-weight: bold;
 }
 
-p {
+p,
+a {
     font-family: 'Georgia', 'Verdana', sans-serif;
 }
