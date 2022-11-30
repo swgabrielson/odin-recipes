@@ -1,9 +1,27 @@
 h1 {
     font-family: 'Georgia', 'Verdana', sans-serif;
     font-weight: bold;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: 'Georgia', 'Verdana', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+h3 {
+    font-family: 'Georgia', 'Verdana', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
 }
 
 p,
-a {
+a,
+li {
     font-family: 'Georgia', 'Verdana', sans-serif;
+}
+
+li {
+    margin-bottom: 10px;
 }
